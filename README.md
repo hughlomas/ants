@@ -18,4 +18,7 @@ They have an energy cost for moving, and if it's too low they have to eat a piec
 
 From these extremely basic rules, they are very efficient at clearing the "world" of food.
 
+I intended to expand on the project, with interactions between the red and black colonies and more complex behavior, but... yeah.
+
+
 You'll need the Processing libraries to build this (http://processing.org/tutorials/eclipse/)
